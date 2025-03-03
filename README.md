@@ -41,23 +41,78 @@
 ---
 
 ## 📚 **Projects**
-Welcome to my portfolio, where I showcase my projects.  
+Welcome to my portfolio! Here are some of my featured projects.  
 Click on the project names to explore them!  
 
-| Project Name  | Description | Tech Stack | Link |
-|--------------|-------------|------------|------|
-| **Project 1** | A brief description of project 1. | Flutter | [View Project](https://github.com/Sampath-2613/treasure-hunt) |
+<table>
+  <tr>
+    <th>🚀 Project Name</th>
+    <th>📝 Description</th>
+    <th>🛠 Tech Stack</th>
+    <th>🔗 Link</th>
+  </tr>
+  <tr>
+    <td><b>🏆 Project 1</b></td>
+    <td> Developing TREASURE HUNT Application.</td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+    </td>
+    <td><a href="https://github.com/Sampath-2613/treasure-hunt"><b>🔗 View Project</b></a></td>
+  </tr>
+  <tr>
+    <td><b>🚀 Project 2</b></td>
+    <td>Developing Social media Application</td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+    </td>
+    <td><a href="https://github.com/murali1521/practice"><b>🔗 View Project</b></a></td>
+  </tr>
+  <tr>
+    <td><b>💡 Project 3</b></td>
+    <td>developing car rental application</td>
+    <td>
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
+    </td>
+    <td><a href="https://github.com/murali1521/Murali_1042_car_rental"><b>🔗 View Project</b></a></td>
+  </tr>
+</table>
+
+
 
 
 ---
 
-### 📈 **GitHub Stats**
+### 📊 **GitHub Insights**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=murali1521&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=murali1521&theme=radical" alt="GitHub Streak">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=murali1521&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=murali1521&label=Profile%20Views&color=brightgreen&style=flat" alt="Profile Views">
 </p>
 
 
 ---
+
+### 🏆 **GitHub Achievements & Contributions**
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=murali1521&theme=radical&no-bg=true&margin-w=15&column=7" alt="GitHub Trophies">
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=murali1521&theme=radical" alt="GitHub Contribution Graph">
+</p>
+
+
+
+---
+
 
 ### 📫 **Connect with Me**
 <p align="center">
@@ -69,6 +124,4 @@ Click on the project names to explore them!
 
 </p>
 
----
 
-⭐ **Star my repositories and follow me for updates!** 🚀  
