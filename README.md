@@ -46,7 +46,7 @@ Click on the project names to explore them!
 
 | Project Name  | Description | Tech Stack | Link |
 |--------------|-------------|------------|------|
-| **Project 1** | A brief description of project 1. | Flutter, Firebase | [View Project](https://github.com/Sampath-2613/treasure-hunt) |
+| **Project 1** | A brief description of project 1. | Flutter | [View Project](https://github.com/Sampath-2613/treasure-hunt) |
 
 
 ---
@@ -63,7 +63,10 @@ Click on the project names to explore them!
 <p align="center">
   <a href="https://www.linkedin.com/in/murali-anduri/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:balamurali.anduri@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+  <a href="https://github.com/murali1521">
+  <img src="https://img.shields.io/badge/Portfolio Profile-000000?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
 </p>
 
 ---
