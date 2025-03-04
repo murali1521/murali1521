@@ -56,6 +56,7 @@ Click on the project names to explore them!
     <td> Developing TREASURE HUNT Application.</td>
     <td>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
     </td>
     <td><a href="https://github.com/Sampath-2613/treasure-hunt"><b>🔗 View Project</b></a></td>
   </tr>
@@ -70,7 +71,7 @@ Click on the project names to explore them!
   </tr>
   <tr>
     <td><b>💡 Project 3</b></td>
-    <td>developing car rental application</td>
+    <td>Developing car rental application</td>
     <td>
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
       <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black">
@@ -79,8 +80,12 @@ Click on the project names to explore them!
   </tr>
 </table>
 
+---
 
-
+## 📈 **GitHub Stats**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=murali1521&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
 ---
 
