@@ -3,7 +3,7 @@
   <img src="https://github.com/murali1521/murali1521/blob/main/banner.jpg?raw=true" alt="Welcome Banner">
 </p>
 
-<h1 align="center"> Hi, I'm Murali! 👋 </h1>
+<h1 align="center"> Hey there, I'm Murali! 👋 </h1>
 
 <p align="center">
   🚀 Application Developer | 💻 Full-Stack Enthusiast | 🎨 UI/UX Explorer
