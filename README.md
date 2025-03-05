@@ -12,7 +12,7 @@
 ---
 
 ### 🚀 **About Me**
-- 🔥 Passionate about **web and mobile development**  
+- 🔥 Passionate about **mobile and web app development**  
 - 💡 Experienced in **Frontend, Backend, and Full-Stack Development**  
 - 📚 Always learning and experimenting with new technologies  
 
